@@ -1,0 +1,30 @@
+{
+  "name": "@sinchang/eslint-config-next",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Jeff Wen <sinchangwen@gmail.com> (https://github.com/sinchang/)",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@next/eslint-plugin-next": "^12.0.8",
+    "@sinchang/eslint-config-react": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "react": "^17.0.2",
+    "typescript": "^4.5.4"
+  }
+}
