@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-react",
-  "version": "0.16.0",
+  "name": "@sinchang/eslint-config-react",
+  "version": "0.0.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Jeff Wen <sinchangwen@gmail.com> (https://github.com/sinchang/)",
   "files": [
     "index.js"
   ],
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@antfu/eslint-config-ts": "^0.16.0",
+    "@sinchang/eslint-config-ts": "^0.0.0",
     "eslint-plugin-react": "^7.28.0"
   },
   "devDependencies": {

@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-basic",
-  "version": "0.16.0",
+  "name": "@sinchang/eslint-config-basic",
+  "version": "0.0.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Jeff Wen <sinchangwen@gmail.com> (https://github.com/sinchang/)",
   "files": [
     "index.js"
   ],
