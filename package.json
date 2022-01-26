@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
-    "lint": "npx eslint --ext .js,.json,.vue --fix .",
+    "lint": "npx eslint --ext .js,.json,.ts,.tsx --fix .",
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
