@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/sinchang/eslint-config/compare/v0.1.3...v0.2.0) (2022-01-26)
+
+
+### Features
+
+* add no-floating-promises/return-await rules ([f9ddd92](https://github.com/sinchang/eslint-config/commit/f9ddd92be5089e29f40a4807d5be9306997b262f))
+
+
+
+
+
 ## [0.1.3](https://github.com/sinchang/eslint-config/compare/v0.1.2...v0.1.3) (2022-01-26)
 
 
