@@ -16,6 +16,7 @@ module.exports = {
       '@typescript-eslint/no-floating-promises': 'error',
       'no-return-await': 'off',
       '@typescript-eslint/return-await': 'error',
+      '@typescript-eslint/require-array-sort-compare': 'error',
     },
   }],
   rules: {
