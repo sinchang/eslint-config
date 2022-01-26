@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/sinchang/eslint-config/compare/v0.2.0...v0.3.0) (2022-01-26)
+
+
+### Features
+
+* add @typescript-eslint/require-array-sort-compare rule ([6dbae08](https://github.com/sinchang/eslint-config/commit/6dbae08303d20b738992cad343846d75ef2025a9))
+
+
+
+
+
 # [0.2.0](https://github.com/sinchang/eslint-config/compare/v0.1.3...v0.2.0) (2022-01-26)
 
 

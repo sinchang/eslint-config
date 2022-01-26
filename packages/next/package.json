@@ -1,6 +1,6 @@
 {
   "name": "@sinchang/eslint-config-next",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@next/eslint-plugin-next": "^12.0.8",
-    "@sinchang/eslint-config-react": "^0.2.0"
+    "@sinchang/eslint-config-react": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^8.6.0",
