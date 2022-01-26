@@ -6,7 +6,18 @@ module.exports = {
     '@sinchang/eslint-config-basic',
     'plugin:@typescript-eslint/recommended',
   ],
-  overrides: basic.overrides,
+  overrides: [...basic.overrides, {
+    files: ['*.ts', '*.tsx'],
+    parser: '@typescript-eslint/parser',
+    parserOptions: {
+      project: 'tsconfig.json',
+    },
+    rules: {
+      '@typescript-eslint/no-floating-promises': 'error',
+      'no-return-await': 'off',
+      '@typescript-eslint/return-await': 'error',
+    },
+  }],
   rules: {
     'import/named': 'off',
 
